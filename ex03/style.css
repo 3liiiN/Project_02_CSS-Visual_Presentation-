@@ -1,0 +1,31 @@
+.named {
+	width: 200px;
+	height: 80px;
+	background-color: red;
+}
+.hex {
+	width: 200px;
+	height: 80px;
+	background-color: #3498db;
+}
+.rgb {
+	width: 200px;
+	height: 80px;
+	background-color: rgb(46, 204, 113);
+}
+.rgba {
+	width: 200px;
+	heigth: 80px;
+	background-color: rgba(155, 89, 182, 0.5);
+}
+.opacity-box {
+	width: 200px;
+	height: 80px;
+	background-color: red;
+	opacity: 0.5;
+}
+.rgba-box {
+	width: 200px;
+	height: 80px;
+	background-color: rgba(255, 0, 0, 0.5)
+}
